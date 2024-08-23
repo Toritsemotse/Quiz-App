@@ -1,0 +1,341 @@
+[
+    {
+        "id": 1,
+        "img": "https://lh4.googleusercontent.com/proxy/20UjzUxqb_hKwl3gh464ci6ELv7s_F-f0lH5SJjPi4-B4o4GTo-Kn1eTSQ3tPSjx2wqafKSg9jNTE5gPAmNPpe4RcvZW3MddNwrWDM9A09lQ02xLrDtK1mv5Nw" ,
+        "name": "Maths",
+        "questions": [
+            {
+                "id": 1,
+                "text": "8/2(2+2)",
+                "options": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "16",
+                        "isCorrect": true
+                    },
+
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "23",
+                        "isCorrect": false
+                    },
+
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "33",
+                        "isCorrect": false
+                    },
+
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "24",
+                        "isCorrect": false
+                    }
+
+                ]
+                
+            },
+
+            {
+                "id": 2,
+                "text": "SQRT(64) * 9 ",
+                "options": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "36",
+                        "isCorrect": false
+                    },
+
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "72",
+                        "isCorrect": true
+                    },
+
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "144",
+                        "isCorrect": false
+                    },
+
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "88",
+                        "isCorrect": false
+                    }
+
+                ]
+                
+            },
+
+            {
+                "id": 3,
+                "text": "2 + 2",
+                "options": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "36",
+                        "isCorrect": false
+                    },
+
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "4",
+                        "isCorrect": true
+                    },
+
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "144",
+                        "isCorrect": false
+                    },
+
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "88",
+                        "isCorrect": false
+                    }
+
+                ]
+                
+            }
+        ]
+    },
+
+    {
+        "id": 2,
+        "img": "https://bright-culture.com/wp-content/uploads/2021/06/learn-chemistry-optimized.jpg",
+        "name": "Chemistry",
+        "questions": [
+            {
+                "id": 1,
+                "text": "What is the chemical name of NH4+?",
+                "options": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "Hydroxide",
+                        "isCorrect": false
+                    },
+
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "Acetate",
+                        "isCorrect": false
+                    },
+
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "Ammonium",
+                        "isCorrect": true
+                    },
+
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "Nitrate",
+                        "isCorrect": false
+                    }
+
+                ]
+            },
+
+            {
+                "id": 2,
+                "text": " What is the chemical name of CO32-?",
+                "options": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "Chromate",
+                        "isCorrect": false
+                    },
+
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "Carbonate",
+                        "isCorrect": true
+                    },
+
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "Sulphate",
+                        "isCorrect": false
+                    },
+
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "Nitrite",
+                        "isCorrect": false
+                    }
+
+                ]
+            },           
+
+            {
+              "id": 3,
+                "text": " OH- can be described as which polyatomic ion?",
+                "options": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "Hydroxite",
+                        "isCorrect": false
+                    },
+
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "Hydroxide",
+                        "isCorrect": true
+                    },
+
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "Helium",
+                        "isCorrect": false
+                    },
+
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "Phosphate",
+                        "isCorrect": false
+                    }
+
+                ]  
+            }
+        ]
+    },
+
+    {
+        "id": 3,
+        "img": "https://static.wixstatic.com/media/7fe4e3_e9631d35de724b12b75a50f50d0c76fd~mv2.jpg/v1/crop/x_0,y_60,w_395,h_275/fill/w_553,h_385,al_c,lg_1,q_80,enc_auto/Biology.jpg",
+        "name": "Biology",
+        "questions": [
+            {
+                "id": 1,
+                "text": "A plant which grows on another plant without apparent harm to the host plant is called?",
+                "options": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "a parasite",
+                        "isCorrect": false
+                    },
+
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "a saprophyte",
+                        "isCorrect": false
+                    },
+
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "an epiphyte",
+                        "isCorrect": true
+                    },
+
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "a predator",
+                        "isCorrect": false
+                    }
+
+                ]
+            },
+
+            {
+                "id": 2,
+                "text": " One of the function of xylem is?",
+                "options": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "strengthening the stem",
+                        "isCorrect": true
+                    },
+
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "manufacturing food",
+                        "isCorrect": false
+                    },
+
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "reducing loss of water",
+                        "isCorrect": false
+                    },
+
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "conducting manufactured food",
+                        "isCorrect": false
+                    }
+
+                ]
+            },           
+
+            {
+              "id": 3,
+                "text": " People suffering from myopia?",
+                "options": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "are colour blind",
+                        "isCorrect": false
+                    },
+
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "cannot see any object clearly",
+                        "isCorrect": false
+                    },
+
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "can see far away object clearly",
+                        "isCorrect": false
+                    },
+
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "can see near object clearly",
+                        "isCorrect": true
+                    }
+
+                ]  
+            }
+        ]
+    }
+]
+
